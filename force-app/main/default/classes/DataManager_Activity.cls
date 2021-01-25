@@ -13,6 +13,10 @@ public class DataManager_Activity  implements Queueable {
     
     // The absolute days difference initiated at construction
     private Integer absDaysDiff;
+     // The absolute days difference initiated at construction
+     private Integer absDaysDiff1;
+      // The absolute days difference initiated at construction
+    private Integer absDaysDiff2;
     
     // =========================================================================
     //           Class Functions (constructor and execute)
