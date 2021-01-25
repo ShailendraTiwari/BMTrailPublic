@@ -13,9 +13,6 @@
         <members>ACE_Booking__c.Insurance__c</members>
         <members>ACE_Booking__c.Loyalty_Bonus__c</members>
         <members>ACE_Booking__c.OD_Discount__c</members>
-        <members>ACE_Booking__c.On_Road_Price__c</members>
-        <members>ACE_Booking__c.Other_Local_Taxes__c</members>
-        <members>ACE_Booking__c.Pricing_Type__c</members>
         <members>ACE_Booking__c.Purple_Club_with_Tax__c</members>
         <members>ACE_Booking__c.Registration__c</members>
         <members>ACE_Booking__c.Road_Safety_Tax__c</members>
