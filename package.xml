@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ACE_Booking__c.AMC_with_Tax__c</members>
+        <members>ACE_Booking__c.Comprehensive_Insurance__c</members>
+        <members>ACE_Booking__c.Consumer_Scheme__c</members>
+        <members>ACE_Booking__c.Corporate_Bonus__c</members>
+        <members>ACE_Booking__c.Dealer_Discount_Special_Discount__c</members>
+        <members>ACE_Booking__c.EPC__c</members>
+        <members>ACE_Booking__c.Exchange_Bonus__c</members>
+        <members>ACE_Booking__c.Fast_Tag__c</members>
+        <members>ACE_Booking__c.Incidental_Charges__c</members>
+        <members>ACE_Booking__c.Insurance__c</members>
+        <members>ACE_Booking__c.Loyalty_Bonus__c</members>
+        <members>ACE_Booking__c.OD_Discount__c</members>
+        <members>ACE_Booking__c.On_Road_Price__c</members>
+        <members>ACE_Booking__c.Other_Local_Taxes__c</members>
+        <members>ACE_Booking__c.Pricing_Type__c</members>
+        <members>ACE_Booking__c.Purple_Club_with_Tax__c</members>
+        <members>ACE_Booking__c.Registration__c</members>
+        <members>ACE_Booking__c.Road_Safety_Tax__c</members>
+        <members>ACE_Booking__c.Sales_Type__c</members>
+        <members>ACE_Booking__c.Zero_Depreciation_Insurance_Cost__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>48.0</version>
+</Package>
